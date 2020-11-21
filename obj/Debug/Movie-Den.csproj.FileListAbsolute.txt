@@ -81,3 +81,6 @@ C:\Users\admu\Desktop\code-projects\Movie-Den\bin\EntityFramework.dll
 C:\Users\admu\Desktop\code-projects\Movie-Den\bin\EntityFramework.SqlServer.dll
 C:\Users\admu\Desktop\code-projects\Movie-Den\bin\EntityFramework.xml
 C:\Users\admu\Desktop\code-projects\Movie-Den\bin\EntityFramework.SqlServer.xml
+C:\Users\admu\Desktop\code-projects\Movie-Den\obj\Debug\Movie_Den.Migrations.Initial.resources
+C:\Users\admu\Desktop\code-projects\Movie-Den\obj\Debug\Movie-Den.csproj.GenerateResource.cache
+C:\Users\admu\Desktop\code-projects\Movie-Den\obj\Debug\Movie_Den.Migrations.Rating.resources
